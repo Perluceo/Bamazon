@@ -1,5 +1,4 @@
 # Bamazon
-<h1>Bamazon</h1>
 
 <p>Bamazon is an Amazon-like storefront that takes in orders from customers and depletes stock from the store's inventory.</p>
 
