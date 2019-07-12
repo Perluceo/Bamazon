@@ -16,5 +16,9 @@ CREATE TABLE products(
 Select * FROM products;
 
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) 
-VALUES  (60, "Picasso Magnetic 3D Building Blocks", "Toys", 33.99, 20),
-        (101, "Echo Dot Smart Speaker with Alexa Charcoal", "Electronics", 24.99, 19),
+VALUES  (6010, "Picasso Magnetic 3D Building Blocks", "Toys", 33.99, 20),
+        (1010, "Echo Dot Smart Speaker with Alexa Charcoal", "Electronics", 24.99, 19),
+        (6437, "Alexa Night Vision Camera", "Cameras", 37.98, 16),
+        (5423, "$25 Playstation Store Gift Card", "Video Games", 25, 15),
+        (8759, "Where the Crawdads Sing", "Books", 14.99, 9),
+        (2398, "Women's Racerback Maxi Dress", "Clothing", 24.99, 17)
