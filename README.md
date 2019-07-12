@@ -6,5 +6,10 @@
 <ol>
 <li>mySQL</li>
 <li>javascript node application</li>
-<li>inquirer and mysql npm packages</li>
+<li>inquirer, cli-table, and mysql npm packages</li>
 </ol>
+
+<img src="images/prompt.png" alt="prompt">
+<img src="images/prompt1.png" alt="prompt1">
+<img src="images/inStock.png" alt="inStock">
+<img src="images/outOfStock.png" alt="outOfStock">
